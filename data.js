@@ -32,13 +32,15 @@ var APP_DATA = {
           "target": "1-2-bo-train-station"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 0.7847285340471046,
-          "pitch": -0.0044166429334122626,
-          "title": "B&amp;O Railroad",
-          "text": "<div> Originally, there were three tracks running past the Aberdeen station. Around the early 1960s, the other two tracks were scrapped, leaving just a single line. This reduction in tracks occurred gradually over several years, reflecting the declining popularity of freight trains and the rise of commercial transportation via trucks, cars, and planes. </div>" "<div> Click <a href="https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/" target="_blank" style="color: blue; text-decoration: underline;">here</a> to learn more about the B&amp;O railroad! </div>"
-        },
+"infoHotspots": [
+    {
+        "yaw": 0.7847285340471046,
+        "pitch": -0.0044166429334122626,
+        "title": "B&amp;O Railroad",
+        "text": "<div> Originally, there were three tracks running past the Aberdeen station. Around the early 1960s, the other two tracks were scrapped, leaving just a single line. This reduction in tracks occurred gradually over several years, reflecting the declining popularity of freight trains and the rise of commercial transportation via trucks, cars, and planes. </div><div> Click <a href=\"https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/\" target=\"_blank\" style=\"color: blue; text-decoration: underline;\">here</a> to learn more about the B&amp;O railroad! </div>"
+    }
+]
+
         {
           "yaw": -0.45934556903134904,
           "pitch": -0.08753268347066623,
@@ -151,12 +153,13 @@ var APP_DATA = {
           "title": "Baker Canning Warehouse",
           "text": "<div>This now vacant building was formerly a canning warehouse owned by the Baker family. Built around the 1900s, the warehouse was once responsible for churning out 125,000 cases of corn per season. A spur line from the B&amp;O train yard crossed Bel Air Avenue and ran along the righthand side of the building where boxes of canned goods were loaded onto the train from the warehouse for shipment.</div>"
         },
-        {
-          "yaw": -1.987774083685558,
-          "pitch": -0.06181421883566962,
-          "title": "B&amp;O Train Station",
-          "text": "<div> click <a href="https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/" target="_blank" style="color: blue; text-decoration: underline;"> here </a> to here more! </div>"
-        }
+       {
+    "yaw": -1.987774083685558,
+    "pitch": -0.06181421883566962,
+    "title": "B&amp;O Train Station",
+    "text": "<div> click <a href=\"https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/\" target=\"_blank\" style=\"color: blue; text-decoration: underline;\"> here </a> to learn more! </div>"
+}
+
       ]
     },
     {
