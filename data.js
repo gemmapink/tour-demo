@@ -92,7 +92,7 @@ var APP_DATA = {
           "yaw": 3.004740471658229,
           "pitch": -0.054685828138225645,
           "title": "The B&amp;O Train Station",
-          "text": "<div> click <a href = 
+    "text": "<div> click <a href=\"https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/\" target=\"_blank\" style=\"color: blue; text-decoration: underline;\"> here </a> to learn more! </div>"
         },
         {
           "yaw": 1.3374329313115911,
